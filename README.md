@@ -1,6 +1,8 @@
 glad
 ====
 
+**FORK**: This branch also contains a CMakeLists.txt!
+
 This branch contains an OpenGL loader generated with `glad` for the C programming
 language.
 
